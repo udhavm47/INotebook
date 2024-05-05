@@ -1,0 +1,1 @@
+This models folder contains the models or templates or schemas of different services or functionalites on this app.

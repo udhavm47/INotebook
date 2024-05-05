@@ -1,0 +1,1 @@
+this routes folder conatins all th api routes.
